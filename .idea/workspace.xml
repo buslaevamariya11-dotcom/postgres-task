@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f7f4935-2360-4f34-b56d-358a57973a67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_0.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_13529.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_13529.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_16384.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_16384.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/global.stat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "buslaevamariya11-dotcom"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/buslaevamariya11-dotcom/postgres-task.git",
+    "accountId": "3b12c8ec-a7ce-4d1b-a631-8a4786f93f3f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3A4JWWQimLhEIYHGKHoCJ3kbRtS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f7f4935-2360-4f34-b56d-358a57973a67" name="Changes" comment="" />
+      <created>1771845941202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771845941202</updated>
+    </task>
+    <servers />
+  </component>
+</project>

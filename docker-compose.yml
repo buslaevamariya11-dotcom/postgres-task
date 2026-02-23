@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres:13-alpine
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_DB: cards_db
+      POSTGRES_USER: cards_user
+      POSTGRES_PASSWORD: cards_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data:/var/lib/postgresql/data
